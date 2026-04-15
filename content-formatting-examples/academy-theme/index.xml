@@ -180,7 +180,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
 
 
 &lt;div class="image-container" style="text-align: center; margin: 1rem 0;"&gt;
- &lt;img src="../../examples/images/exoscale-icon.png" alt="Exoscale icon displayed with the academy-theme image shortcode" title="Theme image shortcode" style="width: 140px; border-radius: 12% !important;" data-modal="true" onclick="openModal(this)" /&gt;
+ &lt;img src="https://CodexRaunak.github.io/academy-example/examples/images/exoscale-icon.png" alt="Exoscale icon displayed with the academy-theme image shortcode" title="Theme image shortcode" style="width: 140px; border-radius: 12% !important;" data-modal="true" onclick="openModal(this)" /&gt;
  &lt;p style="text-align: center; margin-top: 0.5rem;"&gt;Theme image shortcode&lt;/p&gt;
  &lt;p&gt;Exoscale icon displayed with the academy-theme image shortcode&lt;/p&gt;
 &lt;/div&gt;</description></item><item><title>SVG</title><link>https://CodexRaunak.github.io/academy-example/content-formatting-examples/academy-theme/svg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://CodexRaunak.github.io/academy-example/content-formatting-examples/academy-theme/svg/</guid><description>&lt;p&gt;The &lt;code&gt;svg&lt;/code&gt; shortcode renders an inline SVG icon from &lt;code&gt;assets/icons/{name}.svg&lt;/code&gt;.&lt;/p&gt;
@@ -333,7 +333,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;Designs&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Designs&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -344,7 +344,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;Design&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Design&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -355,7 +355,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;Create and edit cloud native designs&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Create and edit cloud native designs&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -366,7 +366,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -377,7 +377,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -388,7 +388,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -399,7 +399,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -410,7 +410,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -421,7 +421,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -432,7 +432,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -443,7 +443,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;KC001&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;KC001&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -454,7 +454,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;K001&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;K001&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -465,7 +465,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;2024-01-01&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;2024-01-01&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -476,7 +476,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;true&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;true&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -807,7 +807,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;Designs&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Designs&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -818,7 +818,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;Design&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Design&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -829,7 +829,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;Create and edit cloud native designs&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Create and edit cloud native designs&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -840,7 +840,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -851,7 +851,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -862,7 +862,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -873,7 +873,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -884,7 +884,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -895,7 +895,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -906,7 +906,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -917,7 +917,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;KC001&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;KC001&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -928,7 +928,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;K001&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;K001&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -939,7 +939,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;2024-01-01&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;2024-01-01&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -950,7 +950,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;true&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;true&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1425,7 +1425,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;Designs&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Designs&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1436,7 +1436,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;Design&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Design&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1447,7 +1447,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;Create and edit cloud native designs&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Create and edit cloud native designs&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1458,7 +1458,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1469,7 +1469,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1480,7 +1480,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1491,7 +1491,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1502,7 +1502,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1513,7 +1513,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1524,7 +1524,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1535,7 +1535,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;KC001&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;KC001&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1546,7 +1546,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;K001&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;K001&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1557,7 +1557,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;2024-01-01&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;2024-01-01&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1568,7 +1568,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;th&gt;&lt;a href="../../cloud/security/roles/"&gt;true&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;true&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -2153,7 +2153,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;h2&gt;&lt;a href="../../cloud/security/roles/x"&gt;X Role&lt;/a&gt;&lt;/h2&gt;
+ &lt;h2&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/x"&gt;X Role&lt;/a&gt;&lt;/h2&gt;
  &lt;table class="csvtable td-initial"&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -3365,7 +3365,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;h2&gt;&lt;a href="../../cloud/security/roles/kc001"&gt;KC001 Role&lt;/a&gt;&lt;/h2&gt;
+ &lt;h2&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/kc001"&gt;KC001 Role&lt;/a&gt;&lt;/h2&gt;
  &lt;table class="csvtable td-initial"&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4325,7 +4325,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;h2&gt;&lt;a href="../../cloud/security/roles/k001"&gt;K001 Role&lt;/a&gt;&lt;/h2&gt;
+ &lt;h2&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/k001"&gt;K001 Role&lt;/a&gt;&lt;/h2&gt;
  &lt;table class="csvtable td-initial"&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5285,7 +5285,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;h2&gt;&lt;a href="../../cloud/security/roles/2024-01-01"&gt;2024-01-01 Role&lt;/a&gt;&lt;/h2&gt;
+ &lt;h2&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/2024-01-01"&gt;2024-01-01 Role&lt;/a&gt;&lt;/h2&gt;
  &lt;table class="csvtable td-initial"&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6245,7 +6245,7 @@ This block uses the academy-theme implementation of `pageinfo`. It is useful for
  
  
  
- &lt;h2&gt;&lt;a href="../../cloud/security/roles/true"&gt;true Role&lt;/a&gt;&lt;/h2&gt;
+ &lt;h2&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/true"&gt;true Role&lt;/a&gt;&lt;/h2&gt;
  &lt;table class="csvtable td-initial"&gt;
  &lt;thead&gt;
  &lt;tr&gt;

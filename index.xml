@@ -195,7 +195,7 @@
  &lt;div class="flex-grow-1 hextra-callout-content"&gt;You can use an &lt;strong&gt;emoji&lt;/strong&gt; instead of the default icon.&lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Exam 1</title><link>https://CodexRaunak.github.io/academy-example/certifications/your-org-uuid/certification-1/test-1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://CodexRaunak.github.io/academy-example/certifications/your-org-uuid/certification-1/test-1/</guid><description/></item><item><title>Figure</title><link>https://CodexRaunak.github.io/academy-example/content-formatting-examples/hugo-builtins/figure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://CodexRaunak.github.io/academy-example/content-formatting-examples/hugo-builtins/figure/</guid><description>&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{{&amp;lt; figure src=&amp;#34;/examples/images/exoscale-icon.png&amp;#34; alt=&amp;#34;Exoscale icon&amp;#34; caption=&amp;#34;Caption text.&amp;#34; &amp;gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-&lt;figure&gt;&lt;img src="./examples/images/exoscale-icon.png"
+&lt;figure&gt;&lt;img src="https://CodexRaunak.github.io/academy-example/examples/images/exoscale-icon.png"
  alt="Exoscale icon"&gt;&lt;figcaption&gt;
  &lt;p&gt;A Hugo figure shortcode rendering a static image.&lt;/p&gt;
  &lt;/figcaption&gt;
@@ -322,8 +322,8 @@ This block uses the Docsy implementation of `pageinfo` with `color="primary"`.
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{{&amp;lt; blocks/link-down color=&amp;#34;info&amp;#34; &amp;gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{{&amp;lt; /blocks/cover &amp;gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-&lt;link rel="preload" as="image" href="./academy-example/content-formatting-examples/docsy/blocks-cover-link-down/background_hu_739988b8c547bd35.png" media="(max-width: 1200px)"&gt;
-&lt;link rel="preload" as="image" href="./academy-example/content-formatting-examples/docsy/blocks-cover-link-down/background_hu_280813ad007c96a9.png" media="(min-width: 1200px)"&gt;
+&lt;link rel="preload" as="image" href="https://CodexRaunak.github.io/academy-example/content-formatting-examples/docsy/blocks-cover-link-down/background_hu_739988b8c547bd35.png" media="(max-width: 1200px)"&gt;
+&lt;link rel="preload" as="image" href="https://CodexRaunak.github.io/academy-example/content-formatting-examples/docsy/blocks-cover-link-down/background_hu_280813ad007c96a9.png" media="(min-width: 1200px)"&gt;
 &lt;style&gt;
 #td-cover-block-0 {
  background-image: url(/academy-example/content-formatting-examples/docsy/blocks-cover-link-down/background_hu_739988b8c547bd35.png);
@@ -338,7 +338,7 @@ This block uses the Docsy implementation of `pageinfo` with `color="primary"`.
  &lt;div class="col-12"&gt;
  &lt;div class="container td-overlay__inner"&gt;
  &lt;div class="text-center"&gt;
- &lt;h1 class="display-1 mt-0 mt-md-5 pb-4"&gt;&lt;img class="td-cover-logo" src="./academy-example/content-formatting-examples/docsy/blocks-cover-link-down/logo_hu_4b5b1923bdea38fc.png" alt="Docsy Cover Block Logo"&gt;Docsy Cover Block&lt;/h1&gt;
+ &lt;h1 class="display-1 mt-0 mt-md-5 pb-4"&gt;&lt;img class="td-cover-logo" src="https://CodexRaunak.github.io/academy-example/content-formatting-examples/docsy/blocks-cover-link-down/logo_hu_4b5b1923bdea38fc.png" alt="Docsy Cover Block Logo"&gt;Docsy Cover Block&lt;/h1&gt;
  &lt;p class="display-2 text-uppercase mb-0"&gt;Hero Example&lt;/p&gt;
  &lt;div class="pt-3 lead"&gt;
  
@@ -558,7 +558,7 @@ This page shows how each shortcode behaves when rendered.
 &lt;p&gt;Visible text before the comment. Visible text after the comment.&lt;/p&gt;
 &lt;p&gt;The text between the &lt;code&gt;comment&lt;/code&gt; shortcode tags above is not rendered. View the page source to confirm.&lt;/p&gt;</description></item><item><title>QR</title><link>https://CodexRaunak.github.io/academy-example/content-formatting-examples/hugo-builtins/qr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://CodexRaunak.github.io/academy-example/content-formatting-examples/hugo-builtins/qr/</guid><description>&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{{&amp;lt; qr text=&amp;#34;https://example.com&amp;#34; alt=&amp;#34;QR code description&amp;#34; /&amp;gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-&lt;img src="./academy-example/qr_70e52cecd67ab578.png" width="148" height="148" alt="QR code for the Layer5 Academy example page"&gt;</description></item><item><title>Tabs</title><link>https://CodexRaunak.github.io/academy-example/content-formatting-examples/hextra/tabs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://CodexRaunak.github.io/academy-example/content-formatting-examples/hextra/tabs/</guid><description>&lt;p&gt;Tabbed interfaces powered by Bootstrap 5 nav-tabs. Each &lt;code&gt;hextra/tab&lt;/code&gt; is nested inside a &lt;code&gt;hextra/tabs&lt;/code&gt; container. Tabs support cross-page sync via localStorage when tabs share the same names.&lt;/p&gt;
+&lt;img src="https://CodexRaunak.github.io/academy-example/qr_70e52cecd67ab578.png" width="148" height="148" alt="QR code for the Layer5 Academy example page"&gt;</description></item><item><title>Tabs</title><link>https://CodexRaunak.github.io/academy-example/content-formatting-examples/hextra/tabs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://CodexRaunak.github.io/academy-example/content-formatting-examples/hextra/tabs/</guid><description>&lt;p&gt;Tabbed interfaces powered by Bootstrap 5 nav-tabs. Each &lt;code&gt;hextra/tab&lt;/code&gt; is nested inside a &lt;code&gt;hextra/tabs&lt;/code&gt; container. Tabs support cross-page sync via localStorage when tabs share the same names.&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{{&amp;lt; hextra/tabs &amp;gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; {{&amp;lt; hextra/tab name=&amp;#34;Tab One&amp;#34; &amp;gt;}}Content for tab one.{{&amp;lt; /hextra/tab &amp;gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; {{&amp;lt; hextra/tab name=&amp;#34;Tab Two&amp;#34; &amp;gt;}}Content for tab two.{{&amp;lt; /hextra/tab &amp;gt;}}
@@ -758,7 +758,7 @@ This page shows how each shortcode behaves when rendered.
 
 
 &lt;div class="image-container" style="text-align: center; margin: 1rem 0;"&gt;
- &lt;img src="./examples/images/exoscale-icon.png" alt="Exoscale icon displayed with the academy-theme image shortcode" title="Theme image shortcode" style="width: 140px; border-radius: 12% !important;" data-modal="true" onclick="openModal(this)" /&gt;
+ &lt;img src="https://CodexRaunak.github.io/academy-example/examples/images/exoscale-icon.png" alt="Exoscale icon displayed with the academy-theme image shortcode" title="Theme image shortcode" style="width: 140px; border-radius: 12% !important;" data-modal="true" onclick="openModal(this)" /&gt;
  &lt;p style="text-align: center; margin-top: 0.5rem;"&gt;Theme image shortcode&lt;/p&gt;
  &lt;p&gt;Exoscale icon displayed with the academy-theme image shortcode&lt;/p&gt;
 &lt;/div&gt;</description></item><item><title>Ref</title><link>https://CodexRaunak.github.io/academy-example/content-formatting-examples/hugo-builtins/ref/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://CodexRaunak.github.io/academy-example/content-formatting-examples/hugo-builtins/ref/</guid><description>&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;[Link text]({{&amp;lt; ref &amp;#34;/content-formatting-examples&amp;#34; &amp;gt;}})
@@ -837,7 +837,7 @@ This page shows how each shortcode behaves when rendered.
  &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Relref</title><link>https://CodexRaunak.github.io/academy-example/content-formatting-examples/hugo-builtins/relref/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://CodexRaunak.github.io/academy-example/content-formatting-examples/hugo-builtins/relref/</guid><description>&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;[Link text]({{&amp;lt; relref &amp;#34;/content-formatting-examples&amp;#34; &amp;gt;}})
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Relative link to this section: &lt;a href="./academy-example/content-formatting-examples/"&gt;Content formatting examples&lt;/a&gt;&lt;/p&gt;</description></item><item><title>SVG</title><link>https://CodexRaunak.github.io/academy-example/content-formatting-examples/academy-theme/svg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://CodexRaunak.github.io/academy-example/content-formatting-examples/academy-theme/svg/</guid><description>&lt;p&gt;The &lt;code&gt;svg&lt;/code&gt; shortcode renders an inline SVG icon from &lt;code&gt;assets/icons/{name}.svg&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Relative link to this section: &lt;a href="https://CodexRaunak.github.io/academy-example/content-formatting-examples/"&gt;Content formatting examples&lt;/a&gt;&lt;/p&gt;</description></item><item><title>SVG</title><link>https://CodexRaunak.github.io/academy-example/content-formatting-examples/academy-theme/svg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://CodexRaunak.github.io/academy-example/content-formatting-examples/academy-theme/svg/</guid><description>&lt;p&gt;The &lt;code&gt;svg&lt;/code&gt; shortcode renders an inline SVG icon from &lt;code&gt;assets/icons/{name}.svg&lt;/code&gt;.&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{{&amp;lt; svg name=&amp;#34;layer5-academy-icon&amp;#34; &amp;gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Parameters:&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
@@ -896,8 +896,8 @@ This page shows how each shortcode behaves when rendered.
  }
  &lt;/script&gt; 
 
-&lt;iframe id="iframe-id" src="./examples/frame-example.html" width="100%" name="iframe-name" style="min-height: 18rem; border: 1px solid #d0d7de; border-radius: 0.75rem;" onload="resizeIframe(this)" referrerpolicy="no-referrer"&gt;
- &lt;p&gt;Your browser can not display embedded frames. You can access the embedded page via the following link: &lt;a href="./examples/frame-example.html"&gt;/examples/frame-example.html&lt;/a&gt;&lt;/p&gt;
+&lt;iframe id="iframe-id" src="https://CodexRaunak.github.io/academy-example/examples/frame-example.html" width="100%" name="iframe-name" style="min-height: 18rem; border: 1px solid #d0d7de; border-radius: 0.75rem;" onload="resizeIframe(this)" referrerpolicy="no-referrer"&gt;
+ &lt;p&gt;Your browser can not display embedded frames. You can access the embedded page via the following link: &lt;a href="https://CodexRaunak.github.io/academy-example/examples/frame-example.html"&gt;/examples/frame-example.html&lt;/a&gt;&lt;/p&gt;
 &lt;/iframe&gt;</description></item><item><title>Version</title><link>https://CodexRaunak.github.io/academy-example/content-formatting-examples/academy-theme/version/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://CodexRaunak.github.io/academy-example/content-formatting-examples/academy-theme/version/</guid><description>&lt;p&gt;The &lt;code&gt;version&lt;/code&gt; shortcode renders a styled version label.&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{{&amp;lt; version color=&amp;#34;Theme version label:&amp;#34; &amp;gt;}} academy-theme sample output{{&amp;lt; /version &amp;gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
@@ -1029,7 +1029,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;Designs&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Designs&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1040,7 +1040,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;Design&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Design&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1051,7 +1051,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;Create and edit cloud native designs&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Create and edit cloud native designs&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1062,7 +1062,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1073,7 +1073,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1084,7 +1084,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1095,7 +1095,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1106,7 +1106,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1117,7 +1117,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1128,7 +1128,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1139,7 +1139,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;KC001&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;KC001&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1150,7 +1150,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;K001&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;K001&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1161,7 +1161,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;2024-01-01&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;2024-01-01&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1172,7 +1172,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;true&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;true&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1503,7 +1503,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;Designs&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Designs&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1514,7 +1514,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;Design&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Design&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1525,7 +1525,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;Create and edit cloud native designs&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Create and edit cloud native designs&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1536,7 +1536,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1547,7 +1547,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1558,7 +1558,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1569,7 +1569,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1580,7 +1580,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1591,7 +1591,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1602,7 +1602,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1613,7 +1613,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;KC001&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;KC001&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1624,7 +1624,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;K001&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;K001&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1635,7 +1635,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;2024-01-01&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;2024-01-01&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -1646,7 +1646,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;true&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;true&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -2121,7 +2121,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;Designs&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Designs&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -2132,7 +2132,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;Design&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Design&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -2143,7 +2143,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;Create and edit cloud native designs&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;Create and edit cloud native designs&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -2154,7 +2154,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -2165,7 +2165,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -2176,7 +2176,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -2187,7 +2187,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -2198,7 +2198,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -2209,7 +2209,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -2220,7 +2220,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;X&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -2231,7 +2231,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;KC001&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;KC001&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -2242,7 +2242,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;K001&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;K001&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -2253,7 +2253,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;2024-01-01&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;2024-01-01&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -2264,7 +2264,7 @@ This page shows how each shortcode behaves when rendered.
  
  
  
- &lt;th&gt;&lt;a href="./cloud/security/roles/"&gt;true&lt;/a&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/"&gt;true&lt;/a&gt;&lt;/th&gt;
  
  
  
@@ -2728,7 +2728,7 @@ This page shows how each shortcode behaves when rendered.
  &lt;/table&gt;</description></item><item><title>Imgproc</title><link>https://CodexRaunak.github.io/academy-example/content-formatting-examples/docsy/imgproc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://CodexRaunak.github.io/academy-example/content-formatting-examples/docsy/imgproc/</guid><description>&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{{&amp;lt; imgproc &amp;#34;logo&amp;#34; Resize &amp;#34;160x&amp;#34; &amp;gt;}}Caption text.{{&amp;lt; /imgproc &amp;gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
 &lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 170px"&gt;
-&lt;img class="card-img-top" src="./academy-example/content-formatting-examples/docsy/imgproc/logo_hu_92cbc4e735e8d6db.png" width="160" height="160"&gt;
+&lt;img class="card-img-top" src="https://CodexRaunak.github.io/academy-example/content-formatting-examples/docsy/imgproc/logo_hu_92cbc4e735e8d6db.png" width="160" height="160"&gt;
 &lt;figcaption class="card-body px-0 pt-2 pb-0"&gt;
 &lt;p class="card-text"&gt;
 
@@ -2889,7 +2889,7 @@ This image was processed from a page resource using the Docsy `imgproc` shortcod
  
  
  
- &lt;h2&gt;&lt;a href="./cloud/security/roles/x"&gt;X Role&lt;/a&gt;&lt;/h2&gt;
+ &lt;h2&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/x"&gt;X Role&lt;/a&gt;&lt;/h2&gt;
  &lt;table class="csvtable td-initial"&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4101,7 +4101,7 @@ This image was processed from a page resource using the Docsy `imgproc` shortcod
  
  
  
- &lt;h2&gt;&lt;a href="./cloud/security/roles/kc001"&gt;KC001 Role&lt;/a&gt;&lt;/h2&gt;
+ &lt;h2&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/kc001"&gt;KC001 Role&lt;/a&gt;&lt;/h2&gt;
  &lt;table class="csvtable td-initial"&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5061,7 +5061,7 @@ This image was processed from a page resource using the Docsy `imgproc` shortcod
  
  
  
- &lt;h2&gt;&lt;a href="./cloud/security/roles/k001"&gt;K001 Role&lt;/a&gt;&lt;/h2&gt;
+ &lt;h2&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/k001"&gt;K001 Role&lt;/a&gt;&lt;/h2&gt;
  &lt;table class="csvtable td-initial"&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6021,7 +6021,7 @@ This image was processed from a page resource using the Docsy `imgproc` shortcod
  
  
  
- &lt;h2&gt;&lt;a href="./cloud/security/roles/2024-01-01"&gt;2024-01-01 Role&lt;/a&gt;&lt;/h2&gt;
+ &lt;h2&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/2024-01-01"&gt;2024-01-01 Role&lt;/a&gt;&lt;/h2&gt;
  &lt;table class="csvtable td-initial"&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6981,7 +6981,7 @@ This image was processed from a page resource using the Docsy `imgproc` shortcod
  
  
  
- &lt;h2&gt;&lt;a href="./cloud/security/roles/true"&gt;true Role&lt;/a&gt;&lt;/h2&gt;
+ &lt;h2&gt;&lt;a href="https://CodexRaunak.github.io/academy-example/cloud/security/roles/true"&gt;true Role&lt;/a&gt;&lt;/h2&gt;
  &lt;table class="csvtable td-initial"&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -8456,7 +8456,7 @@ It supports &lt;strong&gt;Markdown&lt;/strong&gt; cells, code cells with syntax 
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[335 157 466 336 425 426]" src="./examples/images/exoscale-icon.png" onclick="openModal(this.id)" alt="Rendered tab image" 
+ &lt;img id="[264 71 195 158 439 283]" src="https://CodexRaunak.github.io/academy-example/examples/images/exoscale-icon.png" onclick="openModal(this.id)" alt="Rendered tab image" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -8816,7 +8816,7 @@ It supports &lt;strong&gt;Markdown&lt;/strong&gt; cells, code cells with syntax 
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[144 16 444 358 204 293]" src="./assets/icons/layer5-academy-icon.svg" onclick="openModal(this.id)" alt="Spruce shoot close-up" 
+ &lt;img id="[79 461 335 218 262 486]" src="https://CodexRaunak.github.io/academy-example/assets/icons/layer5-academy-icon.svg" onclick="openModal(this.id)" alt="Spruce shoot close-up" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;Large images should always scale down and fit in the content container.&lt;/p&gt;
@@ -8828,7 +8828,7 @@ It supports &lt;strong&gt;Markdown&lt;/strong&gt; cells, code cells with syntax 
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[421 248 301 93 319 1]" src="./assets/icons/layer5-academy-icon.svg" onclick="openModal(this.id)" alt="Large spruce shoot photo" 
+ &lt;img id="[190 122 161 126 256 497]" src="https://CodexRaunak.github.io/academy-example/assets/icons/layer5-academy-icon.svg" onclick="openModal(this.id)" alt="Large spruce shoot photo" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Tables</title><link>https://CodexRaunak.github.io/academy-example/content-formatting-examples/markdown/tables/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://CodexRaunak.github.io/academy-example/content-formatting-examples/markdown/tables/</guid><description>&lt;table&gt;

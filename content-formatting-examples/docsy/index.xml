@@ -68,8 +68,8 @@ This block uses the Docsy implementation of `pageinfo` with `color="primary"`.
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{{&amp;lt; blocks/link-down color=&amp;#34;info&amp;#34; &amp;gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{{&amp;lt; /blocks/cover &amp;gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-&lt;link rel="preload" as="image" href="../../academy-example/content-formatting-examples/docsy/blocks-cover-link-down/background_hu_739988b8c547bd35.png" media="(max-width: 1200px)"&gt;
-&lt;link rel="preload" as="image" href="../../academy-example/content-formatting-examples/docsy/blocks-cover-link-down/background_hu_280813ad007c96a9.png" media="(min-width: 1200px)"&gt;
+&lt;link rel="preload" as="image" href="https://CodexRaunak.github.io/academy-example/content-formatting-examples/docsy/blocks-cover-link-down/background_hu_739988b8c547bd35.png" media="(max-width: 1200px)"&gt;
+&lt;link rel="preload" as="image" href="https://CodexRaunak.github.io/academy-example/content-formatting-examples/docsy/blocks-cover-link-down/background_hu_280813ad007c96a9.png" media="(min-width: 1200px)"&gt;
 &lt;style&gt;
 #td-cover-block-0 {
  background-image: url(/academy-example/content-formatting-examples/docsy/blocks-cover-link-down/background_hu_739988b8c547bd35.png);
@@ -84,7 +84,7 @@ This block uses the Docsy implementation of `pageinfo` with `color="primary"`.
  &lt;div class="col-12"&gt;
  &lt;div class="container td-overlay__inner"&gt;
  &lt;div class="text-center"&gt;
- &lt;h1 class="display-1 mt-0 mt-md-5 pb-4"&gt;&lt;img class="td-cover-logo" src="../../academy-example/content-formatting-examples/docsy/blocks-cover-link-down/logo_hu_4b5b1923bdea38fc.png" alt="Docsy Cover Block Logo"&gt;Docsy Cover Block&lt;/h1&gt;
+ &lt;h1 class="display-1 mt-0 mt-md-5 pb-4"&gt;&lt;img class="td-cover-logo" src="https://CodexRaunak.github.io/academy-example/content-formatting-examples/docsy/blocks-cover-link-down/logo_hu_4b5b1923bdea38fc.png" alt="Docsy Cover Block Logo"&gt;Docsy Cover Block&lt;/h1&gt;
  &lt;p class="display-2 text-uppercase mb-0"&gt;Hero Example&lt;/p&gt;
  &lt;div class="pt-3 lead"&gt;
  
@@ -249,12 +249,12 @@ This page shows how each shortcode behaves when rendered.
  }
  &lt;/script&gt; 
 
-&lt;iframe id="iframe-id" src="../../examples/frame-example.html" width="100%" name="iframe-name" style="min-height: 18rem; border: 1px solid #d0d7de; border-radius: 0.75rem;" onload="resizeIframe(this)" referrerpolicy="no-referrer"&gt;
- &lt;p&gt;Your browser can not display embedded frames. You can access the embedded page via the following link: &lt;a href="../../examples/frame-example.html"&gt;/examples/frame-example.html&lt;/a&gt;&lt;/p&gt;
+&lt;iframe id="iframe-id" src="https://CodexRaunak.github.io/academy-example/examples/frame-example.html" width="100%" name="iframe-name" style="min-height: 18rem; border: 1px solid #d0d7de; border-radius: 0.75rem;" onload="resizeIframe(this)" referrerpolicy="no-referrer"&gt;
+ &lt;p&gt;Your browser can not display embedded frames. You can access the embedded page via the following link: &lt;a href="https://CodexRaunak.github.io/academy-example/examples/frame-example.html"&gt;/examples/frame-example.html&lt;/a&gt;&lt;/p&gt;
 &lt;/iframe&gt;</description></item><item><title>Imgproc</title><link>https://CodexRaunak.github.io/academy-example/content-formatting-examples/docsy/imgproc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://CodexRaunak.github.io/academy-example/content-formatting-examples/docsy/imgproc/</guid><description>&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{{&amp;lt; imgproc &amp;#34;logo&amp;#34; Resize &amp;#34;160x&amp;#34; &amp;gt;}}Caption text.{{&amp;lt; /imgproc &amp;gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
 &lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 170px"&gt;
-&lt;img class="card-img-top" src="../../academy-example/content-formatting-examples/docsy/imgproc/logo_hu_92cbc4e735e8d6db.png" width="160" height="160"&gt;
+&lt;img class="card-img-top" src="https://CodexRaunak.github.io/academy-example/content-formatting-examples/docsy/imgproc/logo_hu_92cbc4e735e8d6db.png" width="160" height="160"&gt;
 &lt;figcaption class="card-body px-0 pt-2 pb-0"&gt;
 &lt;p class="card-text"&gt;
 
@@ -392,7 +392,7 @@ This image was processed from a page resource using the Docsy `imgproc` shortcod
 
 
 &lt;div class="md__image"&gt;
- &lt;img id="[335 157 466 336 425 426]" src="../../examples/images/exoscale-icon.png" onclick="openModal(this.id)" alt="Rendered tab image" 
+ &lt;img id="[264 71 195 158 439 283]" src="https://CodexRaunak.github.io/academy-example/examples/images/exoscale-icon.png" onclick="openModal(this.id)" alt="Rendered tab image" 
  class="md-image-responsive" /&gt;
 &lt;/div&gt;&lt;/p&gt;
 
