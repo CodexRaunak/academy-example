@@ -18,18 +18,34 @@ include .github/build/Makefile.show-help.mk
 #----------------------------------------------------------------------------
 # Academy
 # ---------------------------------------------------------------------------
-.PHONY: setup build site clean check-go theme-update
+.PHONY: setup build build-production build-preview site clean check-go theme-update
+
+BASE_URL ?=
 
 ## ------------------------------------------------------------
 ----LOCAL_BUILDS: Show help for available targets
 	
 ## Local: Install site dependencies
 setup:
-	 npm i
+	@if [ -f package-lock.json ] || [ -f npm-shrinkwrap.json ]; then \
+		npm ci; \
+	else \
+		npm i; \
+	fi
 
 ## Local: Build site for local consumption
 build:
-	hugo build
+	hugo build $(if $(BASE_URL),--baseURL $(BASE_URL),)
+
+## CI: Build production site output
+build-production:
+	HUGO_ENVIRONMENT=production HUGO_ENV=production hugo build -D --gc --buildFuture --minify $(if $(BASE_URL),--baseURL $(BASE_URL),)
+
+## CI: Build preview site output and mark it non-indexable
+build-preview:
+	HUGO_ENVIRONMENT=production HUGO_ENV=production HUGO_PREVIEW=true hugo build -D --gc --buildFuture --minify $(if $(BASE_URL),--baseURL $(BASE_URL),)
+	@printf 'User-agent: *\nDisallow: /\n' > public/robots.txt
+	@find public -name '*.html' -exec perl -0pi -e 's|<meta name=robots content="index, follow">|<meta name=robots content="noindex, nofollow">|g; s|<meta name="robots" content="index, follow">|<meta name="robots" content="noindex, nofollow">|g; s|</head>|<meta name="robots" content="noindex, nofollow"></head>|i unless /<meta[^>]+name="?robots"?[^>]+noindex, nofollow/i' {} +
 
 ## Local: Build and run site locally with draft and future content enabled.
 site: check-go
